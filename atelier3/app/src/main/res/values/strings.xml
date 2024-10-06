@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VenteArticle</string>
+    <string-array name="V_TVA">
+        <item>0</item>
+        <item>10</item>
+        <item>12</item>
+        <item>18</item>
+    </string-array>
+
+</resources>

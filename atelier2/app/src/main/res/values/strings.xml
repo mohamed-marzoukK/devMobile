@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">atelier2</string>
+    <string name="dc">°C</string>
+    <string name="df">°F</string>
+    <string name="dc_df">°C->°F</string>
+    <string name="df_dc">°F->°C</string>
+</resources>
